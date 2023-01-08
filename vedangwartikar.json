@@ -1,0 +1,14 @@
+{
+  "name": "Vedang Wartikar",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "I love to build stuff. Currently, I'm a master's in CS student at UTD.",
+  "avatar": "https://github.com/vedangwartikar.png",
+  "links": [
+    {
+      "name": "Stalk me on my website",
+      "url": "https://www.vedang.dev",
+      "icon": "SiBiolink"
+    }
+  ]
+}
